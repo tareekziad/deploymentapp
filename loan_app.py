@@ -6,9 +6,8 @@ import seaborn as sns
 import warnings
 import streamlit as st 
 import joblib
-import sklearn
+import category_encoders
 import imblearn
-import category_encoder
 
 # dataframe
 
